@@ -173,7 +173,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Machine Learning Intern",
+        title: "Machine Learning Technical Teaching Assistan",
         company_name: "Deep Embed Lab (IUB)", 
         icon: deepembed,
         iconBg: "#a2d2ff",
